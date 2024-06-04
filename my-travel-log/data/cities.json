@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Bangkok",
+      "country": "Thailand",
+      "emoji": "🌏",
+      "date": "2016-06-10T15:59:59.138Z",
+      "notes": "Beautiful beach holiday with family!",
+      "position": {
+        "lat": 13.736717,
+        "lng": 100.523186
+      },
+      "id": "739303001"
+    },
+    {
+      "cityName": "Taipei",
+      "country": "Taiwan",
+      "emoji": "🌏",
+      "date": "2015-07-15T08:22:53.976Z",
+      "notes": "People are really nice,view also beautiful!",
+      "position": {
+        "lat": 25.105497,
+        "lng": 121.597366
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Frankfurt",
+      "country": "Germany",
+      "emoji": "🌍",
+      "date": "2018-07-21T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 50.110924,
+        "lng": 8.682127
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "8ceb",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🌎",
+      "date": "2023-09-09T14:16:12.000Z",
+      "notes": "Airport\n",
+      "position": {
+        "lat": "48.89007699521307",
+        "lng": "2.8628061172391255"
+      }
+    },
+    {
+      "id": "1ace",
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "emoji": "🌎",
+      "date": "2016-06-06T14:18:42.000Z",
+      "notes": "A nice small country!",
+      "position": {
+        "lat": "1.2732140415486632",
+        "lng": "103.8438041372564"
+      }
+    },
+    {
+      "id": "009d",
+      "cityName": "Kuala Lumpur",
+      "country": "Malaysia",
+      "emoji": "🌎",
+      "date": "2016-06-09T14:19:52.000Z",
+      "notes": "Good memory with family, enjoy the climate of summer all year.",
+      "position": {
+        "lat": "3.1527131280238114",
+        "lng": "101.71433533542272"
+      }
+    }
+  ]
+}

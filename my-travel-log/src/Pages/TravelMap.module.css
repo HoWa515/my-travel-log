@@ -1,0 +1,19 @@
+.travelMap {
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba(124, 159, 182, 0.8),
+      rgba(75, 108, 131, 0.8)
+    ),
+    url("./bg.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 2.5rem 5rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  height: 80vh;
+  width: 100%;
+  margin: 2rem 0;
+}
