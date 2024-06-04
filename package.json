@@ -1,5 +1,5 @@
 {
-  "homepage":"https://HoWa515/github.io/my-travel-log/",
+  "homepage": "https://HoWa515/github.io/my-travel-log/",
   "name": "my-travel-log",
   "private": true,
   "version": "0.0.0",
@@ -18,7 +18,8 @@
     "leaflet": "^1.9.4",
     "react": "^18.2.0",
     "react-datepicker": "^6.9.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
